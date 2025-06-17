@@ -36,8 +36,8 @@ arial.ttf     # Font for game display
 
 ### 1. Clone the repository
 ```powershell
-git clone <your-repo-url>
-cd "New folder"
+git clone https://github.com/aldr4GO/SnakeGameAI.git
+cd "SnakeGameAI"
 ```
 
 ### 2. Install dependencies
@@ -61,7 +61,8 @@ python summary.py
 ---
 
 ## ✨ Screenshots
-![Snake Game AI Training](https://user-images.githubusercontent.com/your-image-link.png)
+![ss1](https://github.com/user-attachments/assets/1b6c44cc-e9c0-4e3b-9192-349435594f78)
+
 
 ---
 
@@ -71,7 +72,7 @@ Pull requests and suggestions are welcome! Feel free to fork and improve the pro
 ---
 
 ## 📬 Contact
-For questions or feedback, open an issue or reach out via [your-email@example.com].
+For questions or feedback, open an issue or reach out via [LinkedIn](https://www.linkedin.com/in/tanishverma007/).
 
 ---
 
