@@ -1,3 +1,13 @@
+
+<!--META
+{
+  "desc_portfolio": "Portfolio summary...",
+  "desc_resume": "Resume version...",
+  "tech_stack": ["React", "Node.js"]
+}
+META-->
+
+
 ![thumbnail.png](https://github.com/aldr4GO/SnakeGameAI/blob/main/thumbnail.png)
 
 # 🐍 Reinforcement Learning Snake Game AI
