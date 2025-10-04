@@ -1,10 +1,8 @@
 
 <!--META
 {
-  "title": "SnakeGameAI"
+  "title": "SnakeGameAI",
   "desc_portfolio": "A self learning game using Reinforcement Learning, enabling the agent to autonomously learn optimal strategies for maximizing score.",
-  "thumbnail_url": "https://raw.githubusercontent.com/aldr4GO/${repo}/main/thumbnail.png",
-  "repo_url": "https://github.com/aldr4GO/SnakeGameAI"
 }
 META-->
 
