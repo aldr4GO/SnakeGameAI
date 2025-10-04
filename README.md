@@ -1,3 +1,5 @@
+<img class="center" width="436" height="300" alt="snakegameai" src="https://github.com/user-attachments/assets/a7ebae08-7d47-4247-8e30-35cd69362d09" />
+
 # 🐍 Reinforcement Learning Snake Game AI
 
 Welcome to my Reinforcement Learning project! This repository demonstrates my hands-on journey with RL concepts by building an AI agent that learns to play the classic Snake game using Deep Q-Learning. 🚀
