@@ -2,7 +2,7 @@
 <!--META
 {
   "title": "SnakeGameAI",
-  "desc_portfolio": "A self learning game using Reinforcement Learning, enabling the agent to autonomously learn optimal strategies for maximizing score.",
+  "desc_portfolio": "A self learning game using Reinforcement Learning, enabling the agent to autonomously learn optimal strategies for maximizing score."
 }
 META-->
 
