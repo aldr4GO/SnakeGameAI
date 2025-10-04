@@ -1,4 +1,4 @@
-<img class="center" width="436" height="300" alt="snakegameai" src="https://github.com/user-attachments/assets/a7ebae08-7d47-4247-8e30-35cd69362d09" />
+![thumbnail.png](https://github.com/aldr4GO/SnakeGameAI/blob/main/thumbnail.png)
 
 # 🐍 Reinforcement Learning Snake Game AI
 
